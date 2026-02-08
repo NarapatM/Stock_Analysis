@@ -5,4 +5,5 @@ pandas
 yfinance
 wordcloud
 matplotlib
-googleTranslator
+numpy
+deep-translator
