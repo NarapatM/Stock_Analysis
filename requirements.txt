@@ -1,0 +1,8 @@
+streamlit
+feedparser
+plotly
+pandas
+yfinance
+wordcloud
+matplotlib
+googleTranslator
